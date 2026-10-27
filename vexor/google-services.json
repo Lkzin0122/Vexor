@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253258378677",
+    "project_id": "vexor-b2d3d",
+    "storage_bucket": "vexor-b2d3d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253258378677:android:c1f6b8a3dc90a76fa53dfc",
+        "android_client_info": {
+          "package_name": "com.example.vexor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253258378677-bobjlituv9efibncaqumrg5j0h31mf7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlgALU1L-6pHnf-pf4VmwwhCcDmD-dh0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253258378677-bobjlituv9efibncaqumrg5j0h31mf7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
